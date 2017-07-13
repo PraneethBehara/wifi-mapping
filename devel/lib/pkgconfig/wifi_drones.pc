@@ -1,0 +1,8 @@
+prefix=/home/praneeth/wifi-mapping/devel
+
+Name: wifi_drones
+Description: Description of wifi_drones
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/praneeth/wifi-mapping/devel/lib 
+Requires: 

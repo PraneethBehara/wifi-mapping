@@ -1,0 +1,2 @@
+wifi_drones
+-DCATKIN_DEVEL_PREFIX=/home/praneeth/wifi-mapping/devel -DCMAKE_INSTALL_PREFIX=/home/praneeth/wifi-mapping/install -G Unix Makefiles
