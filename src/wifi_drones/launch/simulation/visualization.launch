@@ -1,0 +1,4 @@
+<launch>
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find drones_move)/launch/debug/config/simulation.rviz" />
+    <node name="visualize_spawned_aps" pkg="drones_move" type="visualize_spawned_aps.py" output="screen" />
+</launch>

@@ -1,0 +1,8 @@
+#goal
+geometry_msgs/Pose pose
+---
+#result
+string result
+---
+#feedback
+string status

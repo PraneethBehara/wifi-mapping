@@ -1,0 +1,12 @@
+<launch>
+    <include file="$(find drones_move)/launch/debug/world.launch" />
+    <include file="$(find drones_move)/launch/simulation/visualization.launch" />
+    <!-- <node pkg="move_base" type="move_base" respawn="false" name="move_base" output="screen" > -->
+    	<!-- <rosparam file="$(find drones_move)/launch/debug/includes/global_costmap_params.yaml" command="load" />  -->
+    <!-- </node>  -->
+    <!-- <node name="botmover" pkg="drones_move" type="botmover.py" output="screen" /> -->
+	<!-- <node pkg="tf" type="static_transform_publisher" name="map_tf" args="0 0 0 0 0 0  /map /base_footprint 100" /> -->
+	<!-- <node pkg="tf" type="static_transform_publisher" name="map_t" args="0 0 0 0 0 0  /map /base_link 100" /> -->
+    <!-- <include file="$(find drones_move)/launch/debug/includes/move_base.launch.xml"/> -->
+    <!-- <node name="move_client" pkg="drones_move" type="move_client.py" output="screen" /> -->
+</launch>
