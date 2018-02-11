@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f70fdfb-5843-4ce7-bb10-1c3045659742" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/CMakeLists.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/config/debug.rviz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/config/simulation.rviz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/includes/costmap_common_params.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/includes/dwa_local_planner_params.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/includes/global_costmap_params.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/includes/kobuki.launch.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/includes/local_costmap_params.yaml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/includes/move_base.launch.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/mapping.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/visualization.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/debug/world.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/live.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/live/config/debug.rviz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/live/freenect_throttle.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/live/mapping.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/simulation.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/simulation/config/simulation.rviz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/launch/simulation/visualization.launch" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/msg/CostandGrid.msg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/.controller.py.swo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/.move_turtlebot.py.swo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/AccessPointReader.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/algorithms/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/botmover.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/config.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/controller.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/costgrid_combiner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/fast_localize_simulation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/mapcombiner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/move_client.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/move_commands.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/simulate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/visualize_spawned_aps.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/wmdatacollect.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/nodes/wmdatatools_praneeth.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/package.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/robots/kobuki_hexagons_kinect.urdf.xacro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/srv/MoveTurtlebot.srv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/unittest/test_cases.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/urdf/common_properties.urdf.xacro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/urdf/kobuki.urdf.xacro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/urdf/sensors/asus_xtion_pro.urdf.xacro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/urdf/sensors/asus_xtion_pro_offset.urdf.xacro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/urdf/sensors/kinect.urdf.xacro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/urdf/stacks/circles.urdf.xacro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/urdf/stacks/hexagons.urdf.xacro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/urdf/turtlebot_gazebo.urdf.xacro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/urdf/turtlebot_library.urdf.xacro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../drones_move/urdf/turtlebot_properties.urdf.xacro" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/CMakeCache.txt" afterPath="$PROJECT_DIR$/../../../build/CMakeCache.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/CMakeFiles/CMakeRuleHashes.txt" afterPath="$PROJECT_DIR$/../../../build/CMakeFiles/CMakeRuleHashes.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/../../../build/CMakeFiles/Makefile.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/../../../build/CMakeFiles/Makefile2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/../../../build/CMakeFiles/TargetDirectories.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/../../../build/CMakeFiles/progress.marks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/CTestTestfile.cmake" afterPath="$PROJECT_DIR$/../../../build/CTestTestfile.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/Makefile" afterPath="$PROJECT_DIR$/../../../build/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/catkin_generated/generate_cached_setup.py" afterPath="$PROJECT_DIR$/../../../build/catkin_generated/generate_cached_setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/catkin_generated/installspace/_setup_util.py" afterPath="$PROJECT_DIR$/../../../build/catkin_generated/installspace/_setup_util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/catkin_generated/order_packages.cmake" afterPath="$PROJECT_DIR$/../../../build/catkin_generated/order_packages.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/catkin_generated/order_packages.py" afterPath="$PROJECT_DIR$/../../../build/catkin_generated/order_packages.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/catkin_generated/setup_cached.sh" afterPath="$PROJECT_DIR$/../../../build/catkin_generated/setup_cached.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/catkin_generated/stamps/Project/_setup_util.py.stamp" afterPath="$PROJECT_DIR$/../../../build/catkin_generated/stamps/Project/_setup_util.py.stamp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/catkin_make.cache" afterPath="$PROJECT_DIR$/../../../build/catkin_make.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../build/cmake_install.cmake" afterPath="$PROJECT_DIR$/../../../build/cmake_install.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../devel/_setup_util.py" afterPath="$PROJECT_DIR$/../../../devel/_setup_util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="controller.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controller.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="178" column="44" lean-forward="true" selection-start-line="178" selection-start-column="44" selection-end-line="178" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="botmover.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/botmover.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1922" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nodes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f70fdfb-5843-4ce7-bb10-1c3045659742" name="Default" comment="" />
+      <created>1507345234948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507345234948</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/botmover.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="178" column="44" lean-forward="true" selection-start-line="178" selection-start-column="44" selection-end-line="178" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

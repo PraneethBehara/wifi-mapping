@@ -1,0 +1,4 @@
+<launch>
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find ndrones)/launch/debug/config/simulation.rviz" />
+    <node name="visualize_spawned_aps" pkg="ndrones" type="visualize_spawned_aps.py" output="screen" />
+</launch>

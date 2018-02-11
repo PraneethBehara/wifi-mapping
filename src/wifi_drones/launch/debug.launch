@@ -1,0 +1,8 @@
+<launch>
+    <include file="$(find ndrones)/launch/debug/world.launch" />
+    <include file="$(find ndrones)/launch/debug/mapping.launch" />
+    <include file="$(find ndrones)/launch/debug/visualization.launch" />
+    <node name="mapcombiner" pkg="ndrones" type="mapcombiner.py" output="screen" />
+    <node name="botmover" pkg="ndrones" type="botmover.py" output="screen" />
+    <!-- <node name="controller" pkg="ndrones" type="controller.py" output="screen" /> -->
+</launch>
